@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CamVault</string>
+    <string name="taken_image">Taken image</string>
+    <string name="save_image">Save Image</string>
+    <string name="image_popup">Image Popup</string>
+    <string name="image_save_failed">Saving image failed</string>
+    <string name="image_capture_failed">Image capture failed</string>
+    <string name="extension_feature_prompt">Choose a feature</string>
+    <string name="extension_unavailable">The effect is not available on this device</string>
+    <string name="toggle_camera_lens">toggle camera lens</string>
+
+    <string name="tool_bar_title">Gallery</string>
+    <string-array name="extension_features">
+        <item>None</item>
+        <item>Bokeh</item>
+        <item>HDR</item>
+        <item>Night mode</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
